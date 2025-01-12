@@ -14,4 +14,9 @@ Started the google cloud "The Arcade Base Camp January 2025" and finished labs "
 
 </details>
 
+<details>
+  <summary>13/01/2025</summary>
+  
+
+</details>
 
